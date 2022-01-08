@@ -1,0 +1,1 @@
+{"num_conv_filters": 32, "conv_kernel_size": 1, "conv_stride": 2, "gru_units": 128, "lr": 0.001, "loss_function": "binary_crossentropy", "epochs": 100}
